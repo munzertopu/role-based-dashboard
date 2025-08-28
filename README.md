@@ -27,7 +27,7 @@ https://role-based-dashboard-xi.vercel.app/
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone git@github.com:munzertopu/role-based-dashboard.git
 cd role-based-dashboard
 ```
 
