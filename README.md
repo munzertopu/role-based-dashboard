@@ -41,7 +41,7 @@ npm install
 npm start
 ```
 
-4. Open [http://localhost:5173] to view it in your browser.
+4. Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
 ## 🔐 Demo Credentials
 
